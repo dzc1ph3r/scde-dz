@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SCDE</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 09 Sep 2023 22:18:00 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/08/logo.png</url>
+	<title>SCDE</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A propos de nos services</title>
+		<link>/a-propos-de-nos-services/</link>
+					<comments>/a-propos-de-nos-services/#respond</comments>
+		
+		<dc:creator><![CDATA[abder]]></dc:creator>
+		<pubDate>Sat, 09 Sep 2023 21:55:53 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">http://localhost/scde/?p=376</guid>
+
+					<description><![CDATA[Le forage, le sondage et les essais in situ géotechniques sont des techniques couramment utilisées en génie civil et en géotechnique pour étudier les caractéristiques des sols et des roches dans le but de concevoir et de construire des infrastructures telles que des bâtiments, des routes, des ponts, etc. Voici ce que sont ces techniques &#8230;<p class="read-more"> <a class="" href="/a-propos-de-nos-services/"> <span class="screen-reader-text">A propos de nos services</span> Lire la suite »</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="376" class="elementor elementor-376" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e948d8e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e948d8e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b5207ca" data-id="b5207ca" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b1ce328 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="b1ce328" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.15.0 - 09-08-2023 */
+.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{align-items:center}.elementor--h-position-left .swiper-slide-inner{justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-6d57bd3 swiper-slide"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div>				</div>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f971216 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f971216" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f1a2de0" data-id="f1a2de0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-8ebf15c elementor-widget elementor-widget-text-editor" data-id="8ebf15c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 09-10-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Le forage, le sondage et les essais in situ géotechniques sont des techniques couramment utilisées en génie civil et en géotechnique pour étudier les caractéristiques des sols et des roches dans le but de concevoir et de construire des infrastructures telles que des bâtiments, des routes, des ponts, etc. Voici ce que sont ces techniques :</p><ol><li><p><strong>Forage géotechnique :</strong> Le forage géotechnique consiste à creuser des trous dans le sol ou la roche à l&rsquo;aide d&rsquo;une foreuse. Ces trous, appelés « carottes de forage », permettent aux ingénieurs géotechniciens d&rsquo;obtenir des échantillons de sol ou de roche à différentes profondeurs. Ces échantillons sont ensuite analysés en laboratoire pour déterminer leurs propriétés physiques et mécaniques, telles que leur composition, leur densité, leur porosité et leur résistance.</p></li><li><p><strong>Sondage géotechnique :</strong> Les sondages géotechniques consistent à enfoncer des instruments de mesure dans le sol ou la roche pour obtenir des données sur les caractéristiques du sous-sol sans prélever d&rsquo;échantillons. Les sondages peuvent mesurer des paramètres tels que la résistance du sol, la pression de l&rsquo;eau souterraine, la compacité du sol, etc. Les données obtenues à partir des sondages sont essentielles pour évaluer la capacité portante du sol et la stabilité des fondations.</p></li><li><p><strong>Essais in situ géotechniques :</strong> Les essais in situ sont des tests réalisés directement sur le terrain pour évaluer les propriétés géotechniques du sol ou de la roche à leur emplacement d&rsquo;origine. Ces essais fournissent des informations cruciales pour la conception des fondations et la stabilité des ouvrages. Parmi les essais in situ courants, on trouve l&rsquo;essai de pénétration statique (SPT), l&rsquo;essai de pénétration au cône (CPT), l&rsquo;essai de pressiomètre, l&rsquo;essai de plaque de chargement, etc.</p></li></ol><p>En résumé, le forage géotechnique permet de prélever des échantillons de sol ou de roche, les sondages géotechniques mesurent diverses propriétés du sous-sol sans échantillonnage, tandis que les essais in situ sont des tests réalisés directement sur le terrain pour évaluer les caractéristiques géotechniques du sol ou de la roche à leur emplacement d&rsquo;origine. Toutes ces techniques sont essentielles pour comprendre le comportement du sol et de la roche lors de la construction d&rsquo;infrastructures et pour assurer leur sécurité et leur durabilité.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/a-propos-de-nos-services/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
